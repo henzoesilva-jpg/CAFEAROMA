@@ -1,4 +1,3 @@
-````markdown
 # ☕ Café Aroma e Sabor - Sistema de Controle de Estoque
 
 Sistema web desenvolvido para gerenciamento de produtos e controle de movimentações de estoque de uma cafeteria, utilizando **Java**, **Spring Boot**, **Thymeleaf** e **MySQL**.
@@ -178,5 +177,3 @@ Este projeto está disponível para fins educacionais.
 
 ```
 
-**Sugestão:** antes de publicar no GitHub, remova do `application.properties` a senha do banco (`root / Senai@2024`) e substitua por valores genéricos ou utilize variáveis de ambiente.
-```
